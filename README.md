@@ -1,2 +1,2 @@
-# standStudio.github.io
-StandStudio's WebSite
+# StandStudio.github.io
+App Store developer site of StandStudio
